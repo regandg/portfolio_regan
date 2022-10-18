@@ -1,8 +1,10 @@
 # regan-portfolio-website
 # Portfolio
 Learn about HTML/CSS/Bootstap through creation. Also, when they are looking for a job, customize it to create your own portfolio. 
-[Live Netlify Development](https://symphonious-heliotrope-61ec88.netlify.app/)
-<img width="1440" alt="Screenshot 2022-07-13 at 10 34 32 PM" src="https://user-images.githubusercontent.com/77997607/178790622-4a1f708a-338d-4990-8338-01cf4eaaaebf.png">
+
+<img width="1351" alt="Screen Shot 2022-10-17 at 10 28 29 PM" src="https://user-images.githubusercontent.com/77997607/196343369-8f042cd6-168d-4160-a563-4fcd974548cf.png">
+
+
 
 ## Tech used
 * HTML
